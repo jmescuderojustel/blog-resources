@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "strategy-pattern-with-aspnet-core", "strategy-pattern-with-aspnet-core.csproj", "{CC038FCA-0AD7-4BE4-A359-447C78D9BAB5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{7CFACD25-B6A3-4EA1-B66F-3C1C38A598B8}"
+	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
+		global.json = global.json
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CC038FCA-0AD7-4BE4-A359-447C78D9BAB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC038FCA-0AD7-4BE4-A359-447C78D9BAB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC038FCA-0AD7-4BE4-A359-447C78D9BAB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC038FCA-0AD7-4BE4-A359-447C78D9BAB5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {583BDB9B-1E67-442B-BFDB-CF349E61495D}
+	EndGlobalSection
+EndGlobal
